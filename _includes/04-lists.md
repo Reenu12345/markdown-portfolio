@@ -1,17 +1,15 @@
+😄
+👍
+1. Item 1
 
+2. Item 2
 
-    <body>
-        Some content.
-        <ol>
-    <li>This</li>
-    <li>Is an</li>
-    <li>Ordered list</li>
-</ol>
-<ul>
-    <li>This</li>
-    <li>Is an</li>
-    <li>Unordered list</li>
-</ul>
-       
+3. Item 3
 
-    </body>
+* Item 1
+
+* Item 2
+
+  * Item 2a
+
+  * Item 2b
