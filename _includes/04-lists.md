@@ -1,13 +1,4 @@
-Hello there, awesome person!
-Hello there, awesome person!
-<h1>I'm a header 1!</h1>
-<html>
-    <head>
-        <title>I am a title!</title>
-         <link rel="stylesheet" href="style.css">
-        <img src="https://octodex.github.com/images/vinyltocat.png">
 
-    </head>
 
     <body>
         Some content.
@@ -21,7 +12,6 @@ Hello there, awesome person!
     <li>Is an</li>
     <li>Unordered list</li>
 </ul>
-        <li><a href="https://github.com">This is a link to GitHub!</a></li>
+       
 
     </body>
-</html>
